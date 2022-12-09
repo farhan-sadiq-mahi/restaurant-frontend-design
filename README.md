@@ -13,7 +13,7 @@ experience for our customers when ordering and browsing through our menu.
 
 • Support for online ordering and reservations
 
-• Photo Gallary connected directly to the social media
+• Photo Gallery connected directly to the social media
 
 • Nice and Smooth slide animation
 
